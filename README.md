@@ -56,4 +56,11 @@ Spoof Troll
 ## Related Github Repositories
 Heist Lua by Wang https://github.com/wangzixuank/YimMenu-HeistLua \
 GTA5 online assistant Lua Warehouse GTA5OnlineTools' Online Lua Repo https://github.com/CrazyZhang666/GTA5OnlineLua
-## Screenshots screenshots
+## screenshots
+
+![image](https://github.com/Alestarov/SCH-LUA-YIMMENU-ENG/assets/108485130/84255b7b-9a39-48ef-8eea-39cc265f56c8)
+
+![image](https://github.com/Alestarov/SCH-LUA-YIMMENU-ENG/assets/108485130/6b9f5973-19ba-4e2b-9c38-889da92de0fc)
+
+![image](https://github.com/Alestarov/SCH-LUA-YIMMENU-ENG/assets/108485130/39ef513a-c729-4a8e-8d54-b06a6f1c7c3d)
+
