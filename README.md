@@ -1,5 +1,8 @@
 # SCH-LUA-YIMMENU
-Currently no English version available.\
+This is the English translation of the Chinese script "SCH-LUA-YIMMENU"
+
+* [Download SCH-LUA-YIMMENU.lua](https://github.com/sch-lda/SCH-LUA-YIMMENU)
+
 An attempt to learn to use Lua.Trying to make the free menu Yimmenu have more practical functions of the P2C menu \
 An attempt to learn Lua.Attempting to enhance the functionality of the free menu Yimmenu with more practical features from P2C menus. \
 It is experimental and is only reserved for backup and archiving. It is not optimized for users, and its stability and security are not guaranteed. \
